@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
-    description: `A simple description about pandas eating lots...`,
-    author: `gatsbyjs`,
+    title: `Borrello Beef`,
+    description: `For all the beef you handle!`,
+    author: `Liam Birkin`,
   },
   plugins: [
     {

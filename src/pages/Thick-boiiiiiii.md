@@ -1,5 +1,5 @@
 ---
-title: "Damn Boi"
+title: "Thick-boiiiiiii"
 date: "1999-02-01"
 ---
 
